@@ -59,4 +59,4 @@ while True:
         
         buy_time = time.time() + 5
 
-driver.close()
+driver.quit()
